@@ -137,3 +137,4 @@ resumeButton.addEventListener('click', () => {
     generateResume()
     
 })
+
